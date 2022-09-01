@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tech-news-java-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tech-news-java-api.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
